@@ -36,3 +36,37 @@ SOCKET openDoor(string ipAddress, int port, string texto) {
 
 	return sock;
 }
+
+
+
+//Other version code OpenDoor better
+
+//bibliotecas utilizadas
+//#include <iostream> 
+//#include <fstream>
+//#include <string>
+
+
+//using namespace std;
+
+  //fstream serial("COM7");        // abrir a porta COM7
+
+
+//void openDoor() {
+
+  //serial.is_open();
+
+   //cout << "porta aberta" << endl; 
+
+
+//}
+
+//int main() {              			 // função principal
+
+    
+  // openDoor();  							 // função abrir porta
+	
+   // return 0;
+//}
+
+
